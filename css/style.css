@@ -5,11 +5,7 @@
     left: 0;
 }
 
-scroll-behavior: smooth;
 
-::-webkit-scrollbar { 
-    display: none; 
-}
 
 ::selection {
   background: #F2FF1E; 
